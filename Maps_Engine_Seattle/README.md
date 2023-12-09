@@ -1,6 +1,6 @@
 # Maps_Engine_Seattle (Husky Maps)
 
-An educational web app for mapping the world, searching for places, and navigating around Seattle. The app is designed to highlight 3 components: [**Autocomplete**](src/autocomplete/), [**Priority Queues**](src/minpq/), and [**Seam Finding**](src/seamfinding/). See the [**Releases**](https://github.com/kevinlin1/huskymaps/releases) for instructions about each project component. *College Project Implementaiton*
+An educational web app for mapping the world, searching for places, and navigating around Seattle. The app is designed to highlight 3 components: [**Autocomplete**](src/autocomplete/), [**Priority Queues**](src/minpq/), and [**Seam Finding**](src/seamfinding/). See the [**Releases**](https://github.com/kevinlin1/huskymaps/releases) for instructions about each project component. * <u>*College Project Implementaiton*</u> *
 
 ## Setup
 

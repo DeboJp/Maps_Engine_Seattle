@@ -2,7 +2,7 @@
 
 An educational web app for mapping the world, searching for places, and navigating around Seattle. The app is designed to highlight 3 components: [**Autocomplete**](src/autocomplete/), [**Priority Queues**](src/minpq/), and [**Seam Finding**](src/seamfinding/). See the [**Releases**](https://github.com/kevinlin1/huskymaps/releases) for instructions about each project component. 
 
-***<ins>*College Project Implementaiton*</ins>***
+***<ins>*College Project Implementaiton*</ins>*** : Display is for demonstation purposes only. Plagiarism is not advised nor promoted.
 
 ## Setup
 

@@ -4,6 +4,8 @@ An educational web app for mapping the world, searching for places, and navigati
 
 ***<ins>*College Project Implementaiton*</ins>*** : Display is for demonstation purposes only. Plagiarism is not advised nor promoted.
 
+![HuskyMaps](HuskyMaps.png)
+
 ## Setup
 
 This project is pre-configured for IntelliJ IDEA.
